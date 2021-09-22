@@ -1,1 +1,2 @@
-# git-sendmail-test
+# git-sendmail-test  
+add test message
