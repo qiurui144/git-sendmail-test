@@ -1,0 +1,22 @@
+From a682331064dc776bfb6796a29157185488a6067c Mon Sep 17 00:00:00 2001
+From: qiurui <happyqiurui@163.com>
+Date: Wed, 22 Sep 2021 11:19:02 +0800
+Subject: [PATCH v1] add test message
+
+Signed-off-by: qiurui <happyqiurui@163.com>
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 95385c5..35cfa51 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# git-sendmail-test
+\ No newline at end of file
++# git-sendmail-test  
++add test message
+-- 
+2.25.1
+
